@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: ibrahim-bot
+  host: ibrahim-bot
+  disk_quota: 1024M
